@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: Tohoku University <br> Chemistry-major<a href='http://web.tohoku.ac.jp/amc/'>(AMC program)</a> undergrad
+subtitle: Tohoku University <br> Chemistry-major<a href='http://web.tohoku.ac.jp/amc/'> (AMC program)</a> undergrad
 
 profile:
   align: right
-  image: zening.jpg
+  image: Zening.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>980-0866 Miyagi, Sendai</p>
+
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
