@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Tohoku University <br> Chemistry-major<a href='http://web.tohoku.ac.jp/amc/'> (AMC program)</a> undergrad
 
@@ -9,7 +9,6 @@ profile:
   image: Zening.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>980-0866 Miyagi, Sendai</p>
 
 
 news: true  # includes a list of news items
