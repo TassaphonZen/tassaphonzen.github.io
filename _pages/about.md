@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-A chemistry undergraduate student of Tohoku University, Japan who has strong enthusiasm in science especially quantum materials.
+A chemistry undergraduate student of Tohoku University, Japan from Thailand who has strong enthusiasm in science especially quantum materials.
 
 This webpage has been created to record my experiences and achievements, and to give an overview of 'who am I' to anyone who would like to know me more. This site is still under editing. I apologize for that. However, I will try my best to keep on updating this site.
 
